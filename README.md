@@ -1,3 +1,10 @@
+
+# About the Project
+
+The project is part of my final project on the Web Design course in my third year at ACLEDA University of Business (2024). 
+I cloned the website from this: https://malis.thalias.com.kh/
+It might look different from the original website because I did not clone all the web pages there, and the original webpage have updated its interface recently too.
+
 # restaurant-website-project
 
 This template should help get you started developing with Vue 3 in Vite.
